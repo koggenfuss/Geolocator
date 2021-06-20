@@ -4,7 +4,6 @@
       <div class="body">
         <div class="container px-0">
           <div class="row">
-            <!-- More deatils card here -->
             <div class="col-md-7 white__bg">
               <h4>About Us</h4>
               <div class="about mt-4">
